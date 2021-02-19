@@ -40,7 +40,7 @@ Please note that InstagramOSINT.py is for importing as python module, this is fo
 The output format is a dict/json inside of a txt file in the directory created for the profile that you scanned
 
 
-# API InstagramOSINT.py Usage
+# API insta-0 Usage
 
 This is useful when trying to apply this codebase to any projects. The API is really simple to use and uses python features to make it easier to use such as indexing
 
