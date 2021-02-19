@@ -1,5 +1,6 @@
 # Insta-0 Tool
 
+# closed for 6 Month ok (:
 
 The Insta-0 Tool gets a range of information from an Instagram account that you normally wouldn't be able to get
 from just looking at their profile
